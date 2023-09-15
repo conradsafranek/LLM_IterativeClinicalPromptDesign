@@ -1,33 +1,35 @@
 # LLM_IterativeClinicalPromptDesign
 
 This repository is associated with: 
-[insert full citation... "Automated HEART Score Determination via ChatGPT: Honing a Framework for Iterative Prompt Development" ...] 
+
+[_insert full citation..._ "Automated HEART Score Determination via ChatGPT: Honing a Framework for Iterative Prompt Development" ...] 
 
 
 
 # Overview
-This repository contains research, code, and data focused on the application of Large Language Models (LLMs) for automated HEART score determination from synthetic clinical notes. We've presented a systematic framework for iterative design and evaluation of instructional prompts, aiming to improve LLM response accuracy.
+This repository contains R code and data focused on the application of Large Language Models (LLMs) for automated HEART score determination from a limited set of synthetic clinical notes. We've presented a systematic framework for iterative design and evaluation of instructional prompts, aiming to improve LLM response accuracy. Please see the manuscript for details on the overall conceptual framework.
 
 ## Repository Structure
-- `code/`: Contains scripts vital to the research process.
-    * `dataPipelineToQueryLLMs.R`: Automates the querying of LLMs using synthetic patient notes and specified prompts.
-    * `dataPipelineToQueryLLMs_helperFunction.R`: Provides helper functions for the main script, especially for API calls to OpenAI.
+- `code/`: Contains the following R scripts
+    * `dataPipelineToQueryLLMs.R`: Main script, Automates the querying of LLMs using the synthetic patient notes and specified prompts (see "data" below). Also includes basic analysis of LLM responses across the four synthetic patient notes for the given version of the prompts.
+    * `dataPipelineToQueryLLMs_helperFunction.R`: Provides helper functions for the main script, especially for application programming interface (API) calls to OpenAI. Includes features to handle potential API errors, send multiple queries efficiently in parallel, and ensure usage stays within OpenAI's API rate limits.
     * `resultsAnalysis_comparitiveErrorAnalysis_Figure3.R`: Analyzes results from the main script to produce Figure 3 of the manuscript.
 - `data/`: Contains synthetic patient notes (`simulatedPatientNotes_ehrDataExtractSample.csv`) and prompts (`InitialPrompts_V1.csv` and `FinalPrompts_V4.csv`).
-- `results/`: Contains LLM response files, e.g., `gptResponses_promptV1_gpt3.5.csv`.
-- `docs/`: Documentation and supplementary materials.
+- `results/`: Contains LLM response files from the initial and final version of the prompts, and for the two LLM model options in the main script (GPT-3.5-turbo-16k or GPT-4). Result file example: `gptResponses_promptV1_gpt3.5.csv`.
 
 ## Pre-requisites
-- **R and RStudio:** The code is written in R and we recommend using RStudio (Version 2022.12.0+353) for a smoother experience.
+- **R and RStudio:** The code is written in R and we recommend using RStudio for a smoother experience.
 - **Dependencies:** Various R libraries are used and are loaded at the start of the `dataPipelineToQueryLLMs.R` script. Instructions for package installation are provided within the script.
 
 ## Getting Started
 1. **Clone the Repository:** Clone or download this repository to your local machine.
-2. **Set File Paths:** Update file paths in the scripts to correspond to your local directory structure. This is essential for accessing prompts, synthetic notes, and results files.
-3. **OpenAI API Key:** To run the `dataPipelineToQueryLLMs.R` script, an OpenAI API key is required. This key should be added to the `dataPipelineToQueryLLMs_helperFunction.R` script. For acquiring an API key and best practices:
+2. **Set File Paths:** Update file paths in the scripts to correspond to your local directory structure. This is essential for accessing prompts, synthetic notes, and results files. See instructions to find file path on Mac or Windows computer:
+    * [Mac - Copy file path](https://support.apple.com/guide/mac-help/get-file-folder-and-disk-information-on-mac-mchlp1774/mac#:~:text=On%20your%20Mac%2C%20click%20the,bottom%20of%20the%20Finder%20window.)
+    * [Windows - Copy file path](https://www.wikihow.com/Find-a-File%27s-Path-on-Windows)
+4. **OpenAI API Key:** To run the `dataPipelineToQueryLLMs.R` script, an OpenAI API key is required. This key should be added to the `dataPipelineToQueryLLMs_helperFunction.R` script. For acquiring an API key and best practices:
     * [OpenAI Authentication](https://platform.openai.com/docs/api-reference/authentication)
     * [API Key Safety Best Practices](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
-4. **Run the Scripts:** Once set up, initiate the research process by executing the scripts in R or RStudio. For exact manuscript results, run the `resultsAnalysis_comparitiveErrorAnalysis_Figure3.R` script with the provided results files.
+5. **Run the Scripts:** Once set up, initiate the LLM query process by executing the scripts in R or RStudio. For exact manuscript results, run the `resultsAnalysis_comparitiveErrorAnalysis_Figure3.R` script with the provided results files. 
 
 ## Data Protection
 All patient notes used in this research are synthetic, generated by physicians for simulated, hypothetical patients. They contain no real or sensitive patient data.
@@ -39,5 +41,5 @@ If you encounter any issues or discrepancies in the code or data, please open an
 This project is currently unlicensed. This means that all rights are reserved by the original author, and you should contact the author before using or distributing the code in any substantial way.
 
 ## Acknowledgements
-This project relies on APIs and services provided by OpenAI. We acknowledge their contribution to the AI community and the tools they provide.
+This project relies on APIs and services provided by OpenAI.
 
