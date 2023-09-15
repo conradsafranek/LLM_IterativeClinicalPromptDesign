@@ -1,2 +1,7 @@
 # LLM_IterativeClinicalPromptDesign
-This repository is associated with "Automated HEART Score Determination via ChatGPT: Honing a Framework for Iterative Prompt Development" by Safranek et. al. Please see the README file below.
+
+This repository is associated with: 
+[insert full citation... "Automated HEART Score Determination via ChatGPT: Honing a Framework for Iterative Prompt Development" ...] 
+
+
+Please see the README file below.
