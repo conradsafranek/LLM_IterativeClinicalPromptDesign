@@ -10,7 +10,7 @@ This repository is associated with:
 This repository contains R code and data focused on the application of Large Language Models (LLMs) for automated HEART score determination from a limited set of synthetic clinical notes. We've presented a systematic framework for iterative design and evaluation of instructional prompts, aiming to improve LLM response accuracy. Please see the manuscript for details on the overall conceptual framework.
 
 ## Repository Structure
-- `code/`: Contains the following R scripts
+- `code/`: Contains the following scripts:
     * `dataPipelineToQueryLLMs.R`: Main script, Automates the querying of LLMs using the synthetic patient notes and specified prompts (see "data" below). Also includes basic analysis of LLM responses across the four synthetic patient notes for the given version of the prompts.
     * `dataPipelineToQueryLLMs_helperFunction.R`: Provides helper functions for the main script, especially for application programming interface (API) calls to OpenAI. Includes features to handle potential API errors, send multiple queries efficiently in parallel, and ensure usage stays within OpenAI's API rate limits.
     * `tokenizerFunction_PythonScript.py`: Python script that includes one additional helper function to tokenize input and output text for price calculations. Only Python (not R currently) has a tokenizer package ("tiktoken") that exactly matches the tokenization used by OpenAI's LLMs.
