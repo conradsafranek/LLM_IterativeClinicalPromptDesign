@@ -13,6 +13,7 @@ This repository contains R code and data focused on the application of Large Lan
 - `code/`: Contains the following R scripts
     * `dataPipelineToQueryLLMs.R`: Main script, Automates the querying of LLMs using the synthetic patient notes and specified prompts (see "data" below). Also includes basic analysis of LLM responses across the four synthetic patient notes for the given version of the prompts.
     * `dataPipelineToQueryLLMs_helperFunction.R`: Provides helper functions for the main script, especially for application programming interface (API) calls to OpenAI. Includes features to handle potential API errors, send multiple queries efficiently in parallel, and ensure usage stays within OpenAI's API rate limits.
+    * `tokenizerFunction_PythonScript.py`: Python script that includes one additional helper function to tokenize input and output text for price calculations. Only Python (not R currently) has a tokenizer package ("tiktoken") that exactly matches the tokenization used by OpenAI's LLMs.
     * `resultsAnalysis_comparitiveErrorAnalysis_Figure3.R`: Analyzes results from the main script to produce Figure 3 of the manuscript.
 - `data/`: Contains synthetic patient notes (`simulatedPatientNotes_ehrDataExtractSample.csv`) and prompts (`InitialPrompts_V1.csv` and `FinalPrompts_V4.csv`).
 - `results/`: Contains LLM response files from the initial and final version of the prompts, and for the two LLM model options in the main script (GPT-3.5-turbo-16k or GPT-4). Result file example: `gptResponses_promptV1_gpt3.5.csv`.
