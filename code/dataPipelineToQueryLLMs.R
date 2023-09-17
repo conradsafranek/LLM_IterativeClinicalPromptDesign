@@ -48,8 +48,8 @@
 # (0) Install and load necessary packages
 
 
-# For each of the subsequent libraries, for the first time running this script, uncomment and run the following line
-# install.packages("tidyverse"); install.packages("stringr")
+# For each of the subsequent libraries, for the first time running this script, uncomment and run the following lines ...
+# install.packages("tidyverse"); install.packages("stringr"); # .... 
 
 # Load necessary libraries
 library(tidyverse) # Includes dplyr, ggplot2, purrr, stringr, among others
