@@ -1,0 +1,27 @@
+Step,Prompt,VERSION
+History,"You are a cardiologist reviewing a patient's history during their current cardiac ED visit. Please be concise.
+
+Based on all of the patient's notes below, and considering the patient's symptoms and past medical conditions, please choose between the following options to rate their history as: 
+[Slightly suspicious (0)] [Moderately suspicious (1)] [Highly suspicious (2)] [Not enough information to determine History score]
+ 
+Please first explain your reasoning and then provide your answer in brackets by choosing between the answers above (e.g. [Slightly suspicious (0)] ).
+ 
+{CurrentNotes}",V1
+EKG,"You are a cardiologist reviewing a patient's history during their current cardiac ED visit. Please be concise.
+
+Please consider the patient's EKG findings. Would you categorize it as: 
+[Normal (0)] [Non-specific repolarization disturbance (1)] [Significant ST deviation (2)] [Not enough information to determine EKG score]
+  
+Please first explain your reasoning and then provide your choice between the answers above in brackets (e.g. [Normal (0)] ).
+ 
+{CurrentEKG}",
+Risk_Factors,"You are a cardiologist reviewing a patient's history during their current cardiac ED visit. Please be concise.
+
+Consider the following risk factors: HTN, hypercholesterolemia, DM, obesity (BMI >30 kg/m²), smoking (current, or smoking cessation ≤3 mo), positive family history (parent or sibling with CVD before age 65); atherosclerotic disease: prior MI, PCI/CABG, CVA/TIA, or peripheral arterial disease. 
+ 
+For the patient below, across all the combined encounter notes, how many risk factors are present? 
+[No known risk factors (0)] [1-2 risk factors (1)] [>= 3 risk factors or history of atherosclerotic disease (2)] [Not enough information to determine Risk Factor score]
+ 
+Please first explain your reasoning and then provide your final choice, listing one option between the answers above in brackets (e.g. [No known risk factors (0)] ).
+ 
+{AllNotes}",

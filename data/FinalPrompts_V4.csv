@@ -1,0 +1,78 @@
+Step,Prompt,VERSION
+History,"CONTEXT: You are a cardiologist consulted by the Emergency Department for a patient with a potential myocardial infarction (MI). The HEART score is applied to determine the risk of major adverse cardiac events (MACE) and to help decide between admitting or discharging the patient. Please be concise in your answers.
+
+PROMPT:
+You will be given clinical encounter notes relevant to the patient's current visit below, delimited by triple quotes. Considering the patient's symptoms and presentation (exclusively considering the patient's HPI paragraph, and ignoring the risk factors, ECGs, laboratory results and any later developments), please determine the patient's history subscore (one component of the overall HEART score). 
+
+Choose between these options in brackets: [Slightly suspicious (0)] [Moderately suspicious (1)] [Highly suspicious (2)] 
+For clarity on scoring:
+- Choose [Slightly suspicious (0)] for nonspecific history lacking clear chest pain patterns, triggers, localization, related symptoms, and/or reactions to sublingual nitrates.
+- Choose [Moderately suspicious (1)] for moderately suspicious history that contains traditional & non-traditional elements of typical MI presentation.
+- Choose [Highly suspicious (2)] for highly suspicious history mainly comprising traditional features of typical MI presentation.
+
+If there is not enough information provided in the notes, or if the patient history is altogether not provided, please choose:
+[Not enough information - Pt history not present]
+
+
+Use this format for your response: First explain your reasoning, then conclude with your answer in brackets by choosing between the options above, e.g., [Slightly suspicious (0)]
+
+PATIENT ENCOUNTER NOTES:
+""""""
+{CurrentNotes}
+""""""",V4
+EKG,"CONTEXT: You are a cardiologist consulted by the Emergency Department for a patient with a potential myocardial infarction (MI). The HEART score is applied to determine the risk of major adverse cardiac events (MACE) and to help decide between admitting or discharging the patient. Please be concise in your answers.
+
+PROMPT:
+You will be given clinical encounter notes relevant to the patient's current visit below, delimited by triple quotes. An electrocardiogram (EKG) reading for the patient should be present in one of the notes below. Considering the patient's EKG,  please determine the patient's EKG subscore (one component of the overall HEART score). 
+
+Choose between these options in brackets: [Normal (0)] [Non-specific repolarization disturbance (1)] [Significant ST deviation (2)] 
+For clarity on scoring:
+- Choose [Normal (0)] if the EKG is 'normal' according to Minnesota criteria or if none of the specific criteria in the following choices are met.
+- Choose [Non-specific repolarization disturbance (1)] for:
+     - Repolarization abnormalities without significant ST-segment depression.
+     - Presence of a bundle branch block.
+     - Typical abnormalities indicative of left ventricular hypertrophy (not counting isolated left atrial hypertrophy).
+     - Repolarization abnormalities likely due to the use of digoxin or unchanged known repolarization disturbances.
+- Choose [Significant ST deviation (2)] for significant ST-segment depressions or elevations, unless these are seen in the context of a bundle branch block, left ventricular hypertrophy, or the use of digoxin.
+
+If there is not enough information provided in the notes, or if the patient EKG interpretation is altogether not provided, please choose:
+[Not enough information - Pt EKG interpretation not present]
+
+
+Use this format for your response: First explain your reasoning. Conclude by picking, without alteration, one of the bracketed choices above. An example end to your response would be: [Normal (0)]
+
+
+PATIENT ENCOUNTER NOTES:
+""""""
+{CurrentEKG}
+""""""",
+Risk_Factors,"CONTEXT: You are a cardiologist consulted by the Emergency Department for a patient with a potential myocardial infarction (MI). The HEART score is applied to determine the risk of major adverse cardiac events (MACE) and to help decide between admitting or discharging the patient. Please be concise in your answers.
+
+PROMPT:
+You will be given clinical encounter notes relevant to the patient's current and previous visits below, delimited by triple quotes.
+
+Consider the following specific risk factors:
+- currently treated diabetes mellitus,
+- current or recent (<90 days) smoker,
+- diagnosed and/or treated hypertension,
+- diagnosed hypercholesterolemia,
+- family history of coronary artery disease,
+- current obesity (body mass index [BMI] >30), or
+- a history of significant atherosclerosis (coronary revascularization, myocardial infarction, stroke, or peripheral arterial disease, irrespective of the risk factors for coronary artery disease)
+
+Step 1) For the patient notes below, across all the combined encounter notes (but not including new diagnoses resulting from the current visit, how many of the specific risk factors from the list above are present for the patient? Tally with a YES or NO as you go through each risk factor on the list.
+
+Step 2) Please determine the patient's risk factor subscore (one component of the overall HEART score).
+Choose between these options in brackets: [No known risk factors (0)] [1-2 risk factors (1)] [>= 3 risk factors or any history of atherosclerotic disease (2)]
+
+If there is not enough information provided in the notes to determine a risk factor subscore, please choose:
+[Not enough information]
+
+
+Use this format for your response: First explain your reasoning. Conclude by picking, without alteration, one of the bracketed choices above. An example end to your response would be: [No known risk factors (0)]
+
+
+PATIENT ENCOUNTER NOTES:
+""""""
+{AllNotes}
+""""""",

@@ -1,0 +1,859 @@
+﻿PAT_ENC_ID,PAT_ID,Type,Provider,LastEditedInstant,CreationInstant,TEXT,InitialTroponin,NormalMax,Age,
+pt1-vis1,pt1,PCP Visit,Physician,2022-09-01 16:37:00.000,2022-09-01 15:37:00.000,"Urgent Visit: 
+
+A 68-year-old gentleman with hypertension and hyperlipidemia who presents for recurrence of shortness of breath. He first had symptoms 3 weeks ago. He was treated with antibiotics and finish antibiotic course on August 16th. He reports continued nasal congestion, cough, production of sputum, shortness of breath, wheezing and subjective fevers/chills. He also reports some headaches. No nausea, vomiting or diarrhea. 
+
+BP 122/07 | Pulse (!) 90 | Temp 97.8 °F (36.6 °C) | Resp 20 | SpO2 98% 
+
+In no acute distress lungs are clear to auscultation Regular heart rate and rhythm. The abdomen is soft and non distended Assessment plan: A 68-year-old gentleman with hypertension and hyperlipidemia who presents for recurrence of nasal congestion. I am going to obtain a respiratory viral panel, sputum culture and chest x ray. I am concerned about a pneumonia. I will start antibiotics and call him back with his lab results.",,,,
+pt1-vis2,pt1,PCP Visit,Physician,2023-06-01 16:57:00.000,2023-06-01 15:48:00.000,"ROUTINE PCP VISIT: 
+
+SUBJECTIVE Mr. Manderly is a 68yo M with a PMH of HTN, HLD, CKD, and GERD who is presenting for follow up. We discussed the following: 
+
+#HTN - Remembering to take his medications every day - Has been checking blood pressures at home, SBPs 150s usually 
+
+#CKD - Going to see renal soon 
+
+OBJECTIVE 
+BP Readings from Last 5 Encounters:
+ 05/01/23 135/72 04/15/23 (!) 153/70 04/06/23 (!) 164/68 04/01/23 (!) 152/62 03/08/23 132/66 
+
+Physical Exam: 
+Gen: NAD HEENT: PERRLA, MMM CV: RRR, no m/r/g Pulm: CTAB, no rhonchi/wheezes/rales Abd: soft, +BS, non-tender, non-distended Ext: warm, well perfused. No peripheral edema Neuro: alert and oriented x3, no apparent focal deficits Skin: no rashes or lesions noted 
+
+ASSESSMENT + PLAN Mr. Manderly is a 68yo M with a PMH of HTN, HLD, CKD, and GERD who is presenting for follow up. #HTN: elevated today, rushed to clinic - No change to regimen. Refilled medications today - Repeat BMP at next visit #CKD: - Repeat BMP at next visit - Reminded patient to see renal",,,,
+pt1-vis3,pt1,ED Visit,Physician,2023-06-14 16:37:00.000,2023-06-14 15:37:00.000,"Triage History
+Chief Complaint
+Patient presents with
+• Flank Pain
+2x days flank pain no vomiting no diarhea sometimes bloody urine never had kidney stones. No fevers/chills. Patient
+states pain worse at night.
+HPI
+68M hx HTN HLD CKD here with 2 days of flank pain. Reports associated hematuria. Denies hx nephrolithiasis.
+Non-smoker. Has never seen a urologist, no prior cysto. Pain worse at night. Crampy, uncomfortable. Has trouble
+finding comfortable position in bed. Denies fevers, chills, systemic infectious symptoms. Specifically denies
+burning with urination.
+Review of Systems
+Constitutional: Negative for chills and fever.
+HENT: Negative for sore throat.
+Eyes: Negative for pain.
+Respiratory: Negative for shortness of breath.
+Cardiovascular: Negative for chest pain.
+Gastrointestinal: Negative for abdominal pain, diarrhea, nausea and vomiting.
+Genitourinary: Positive for flank pain. Negative for dysuria, penile pain, testicular pain, and urgency.
+Musculoskeletal: Positive for back pain.
+Skin: Negative for rash.
+Neurological: Negative for headaches.
+All other systems reviewed and are negative.
+Patient Active Problem List
+Diagnosis Date Noted
+• BMI 36.0-36.9,adult 03/12/2023
+• Hypertension 03/12/2023
+• High cholesterol 03/12/2023
+Past Surgical History:
+Diagnosis Laterality Date
+• NO PAST SURGERIES
+Social History: reports that he has never smoked. He has never been exposed to tobacco
+smoke. He has never used smokeless tobacco. He reports that he does not drink alcohol and
+does not use drugs.
+Home meds:
+Discharge Medication List as of 03/14/2023 4:32 PM
+CONTINUE these medications which have NOT CHANGED
+Details
+amlodipine (NORVASC) 5 mg tablet Take 5 mg by mouth once daily., Until
+Discontinued, Historical Med
+cholecalciferol (VITAMIN D) 1,000 unit tablet Take 2,000 Units by mouth daily., Until
+Discontinued, Historical Med
+Allergies:
+Allergies as of 03/12/2023
+• (No Known Allergies)
+BP 124/81 | Temp 98.2 °F (36.8 °C) (Oral) | Resp 16 | SpO2 100%
+No results found for this visit on 06/14/23.
+Physical Exam
+Vitals and nursing note reviewed.
+Constitutional:
+Appearance: He is not in distress.
+HENT:
+Head: Normocephalic and atraumatic.
+Eyes:
+Conjunctiva/sclera: Conjunctivae normal.
+Neck:
+Trachea: No tracheal deviation.
+Cardiovascular:
+Rate and Rhythm: Normal rate and regular rhythm.
+Pulmonary:
+Effort: Pulmonary effort is normal. No respiratory distress.
+Abdominal:
+General: Bowel sounds are normal.
+Palpations: Abdomen is soft.
+Tenderness: Abdomen is nontender. There is no left or right CVA tenderness.
+Skin:
+General: Skin is warm and dry.
+Neurological:
+General: No focal deficit present.
+Procedures/EKG
+Clinical Impressions as of 06/14/23 1532
+Flank pain
+ED Clinical Impression(s)
+The encounter diagnosis was Flank pain.
+Plan
+Given intermittent flank pain without clear laterality concern for possible renal vs MSK vs aortic
+etiology. Low suspicion for aortic dissection. Doubt surgical emergency. Recommended renal
+ultrasound to patient however ultrasound has already closed for the day. Patient does not want to
+wait overnight for ultrasound to open in the morning. Would rather go home with close PMD follow-
+up. Counseled on risks of leaving without definitive workup, after shared ecision making patient
+understyands risk. Doubt life-threatening process. Counseled on return precautions.
+ED Disposition
+Discharge
+No orders of the defined types were placed in this encounter",,,,
+pt1-vis3,pt1,ED Visit ,Registered Nurse,2023-06-14 16:17:00.000,2023-06-14 14:17:00.000,"2:20 PM Patient arrives to ED for eval of flank pain x 2 days. Some blood in urine. No fevers, chills, chest
+pain, shortness of breath. In no acute distress. Needs to get home soon to take care of grandkids.
+2:43 PM MD at bedside. Plan of care explained to patient, will need ultrasounds.
+2:45 PM Called ultrasound to schedule, closed for day. MD on phone with radiologist figuring out when
+ultrasound can get done.
+2:50 PM MD at bedside explaining ultrasound can’t be done until 9am tomorrow because lab is down.
+3:34 PM MD at bedside discharging patient. VSS, ambulatory with steady gait. Patient verbalized
+understanding and acceptance of discharge instructions. Discharged to home. All belongings returned to
+patient.",,,,
+pt1-visCurrent,pt1,ED Visit,Physician,2023-06-29 18:47:00.000,2023-06-29 14:15:00.000,"Chief Complaint
+Patient presents with
+• Chest Pain
+3 hours of severe left sided chest pressure. Radiates to arm. Associated shortness of breath. Denies hx MI. Mildly
+diaphoretic. Aspirin 324 per EMS.
+HPI/PE:
+Patient is a 68 y/o M w/ PMH HTN, HLD, CKD (not on dialysis) presenting for eval chest pain. Reports
+chest pain started approximately 3 hours. Pressure-like, exertional Radiates to L shoulder. Does not
+radiate to back. No ripping/tearing quality. Non-pleuritic. Associated with some SOB that worsens when
+laying flat.
+Denies prior hx ACS. Denies family hx early cardiovascular disease.
+Does not see a cardiologist.
+No hx DVT/PE. No hx recent surgery, immobilization, hormones. No smoking.
+No fevers, chills, infectious symptoms.
+MDM:
+68M with risk factors and chest pain concerning for ACS. Initial troponin noted to be markedly elevated.
+No history of prior troponin in chart. ECG no ST segment changes but some LVH. Cardiology consulted,
+recommends serial troponin/ECG and admission. Low clinical suspicion for DVT/PE. No pneumonia/pnx
+on CXR. Got aspirin pre-hospital. Heparin. Hold off on Brilinta per cardiology. Adm.
+Physical Exam
+ED Triage Vitals [06/29/23 1422]
+BP: (!) 163/95
+Pulse: (!) 115
+Pulse from O2 sat: n/a
+Resp: 22
+Temp: 99.1 °F (37.3 °C)
+Temp src: Oral
+SpO2: 97%
+BP (!) 163/95 | Pulse (!) 115 | Temp 99.1 °F (37.3 °C) (Oral) | Resp 22 | Wt (Wt Unknown)
+Physical Exam
+Procedures
+Attestation/Critical Care
+Clinical Impressions as of 06/29/23 1531
+NSTEMI (non-ST elevated myocardial infarction) (HC Code) (HC CODE) (HC Code)
+ED Disposition
+Admit",,,,
+pt1-visCurrent,pt1,ED Visit,Registered Nurse,2023-06-29 18:37:00.000,2023-06-29 14:25:00.000,"02:25 PM Pt w/ 3 hours chest pain, diaphoretic, uncomfortable appearing. NC O2 for comfort. Pt aox4,
+vss. Steady gait. 8/10 chest pain. Radiates to shoulder. Aspirin by EMS. Tech getting EKG.
+02:31 PM Medicated per MAR. MD at bedside, blood sent to lab.
+03:15 PM Troponin 124. MD aware. Cardiology MD at bedside talking to pt.
+03:38 PM Pt now admitted to telemetry unit. Pain better, now 2/10. Wife calling for update, explained
+plan for adm, requesting update from MD.
+05:31 PM Pt ambulatory with steady gait to bathroom.
+06:32 PM Report given to tele floor RN. Transport booked.",,,,
+pt1-visCurrent,pt1,EKG,Physician,2023-06-29 14:26:00.000,2023-06-29 14:20:00.000,"Electrocardiogram Interpretation:
+Sinus Rhythm
+Left ventricular hypertrophy
+Electronically Signed on 06-29-2023 14:25:51 EDT by",,,,
+pt1-visCurrent,pt1,Labs,Physician,2023-06-29 15:07:00.000,2023-06-29 15:07:00.000,NA,124,12,68,
+pt2-vis1,pt2,PCP Visit,Physician,2022-03-01 16:37:00.000,2022-03-01 15:37:00.000,"CC: Arm Swelling
+HPI
+Mr. Derrik Chan is a 50 y.o. male with no significant past medical history who presents for left arm
+swelling. He reports that he has had significant arm swelling for 3 days, worsening. He states that 3 days
+ago he was in his garden when something stung him. Denies known allergies to bees or other insects.
+Did not see what had stung him. Since then, he has had redness and swelling, along with warmth and
+pain in his left forearm. Increasingly limited range of motion. Has tried to wash arm with cold water
+without improvement. Has not tried Tylenol or ibuprofen. No other injuries to arm.
+Past Medical History
+N/A
+Past Surgical History
+N/A
+Allergies
+No Known Allergies
+Medications
+No Outpatient Encounter Medications
+Social History
+Social History
+Tobacco Use
+• Smoking status: Never
+Substance Use Topics
+• Alcohol use: No
+• Drug use: Never
+Family History
+History reviewed. No pertinent family history.
+Review of Systems
+No symptoms beyond those noted in HPI and PMH- all other systems are negative
+Physical Exam
+BP 129/80 | Pulse 89 | Temp 97.8 °F (36.6 °C)
+Constitutional: Oriented to person, place, and time. Appears well-developed and well-nourished.
+HENT:
+Head: Normocephalic and atraumatic.
+Eyes: Conjunctivae are normal.
+Neck: No tracheal deviation present.
+Pulmonary/Chest: Effort normal.
+Abdominal: Obese, soft and non-tender.
+Extremities: Significant area of erythema and edema to left forearm. Large area of fluctuance. Very
+tender to palpation
+Neurological: alert and oriented to person, place, and time. No focal deficits are evident.
+Skin: Skin is dry.
+Psychiatric: Has a normal mood and affect. Behavior is normal. Judgment and thought content normal.
+Assessment & Plan:
+Mr. Derrik Chan is a 50 y.o. male with no significant past medical history who presents for left arm
+swelling
+Significant concern for severe deep soft tissue infection, very concerning features with worsening ROM.
+Will send patient to ED for further imaging and bloodwork. Patient agreeable to plan of care",,,,
+pt2-vis2,pt2,PCP Visit,Physician,2023-04-02 13:31:00.000,2023-04-02 12:32:00.000,"Assessment
+Patient is a 50 y.o. male (birth male) with the following issues
+#1 Overweight
+Assessment & Plan:
+- encourage healthy portion sizes
+- discuss healthy weight ranges
+- encourage increasing vegetables/lean protein, decreasing sugar, alcohol, simple carbs
+- encourage exercise 3-5 times per week for 30-60 minutes
+#2 Routine Health Maintenance
+- Referral to colonoscopy
+- A1c and lipids at next visit
+Subjective
+50 y.o. male (birth male) presenting today for routine health visit
+Objective:
+Vitals:
+T: 97.7 °F (36.5 °C) P: 76 R: 20 BP: 120/76 Oxygen Saturation: 96 %
+Gen: No apparent distress, alert, awake and oriented
+Head: Normocephalic, atraumatic
+Heart: Regular rate and rhythm, no murmurs, gallops or rubs
+Lungs: Clear to auscultation bilaterally, no wheezes, rales or rhonchi
+Extremities: No clubbing, cyanosis or edema
+Patient's allergies, medications, past medical, past surgical, social, and family history were
+reviewed as appropriate and documented during the visit encounter.",,,,
+pt2-vis3,pt2,ED Visit,Physician,2023-07-05 19:37:00.000,2023-07-05 18:37:00.000,"Chief Complaint
+Patient presents with
+• Anxiety
+Had a panic attack today while driving after someone cut him off in traffic. Didn’t feel he could safely drive home. No
+SI/HI/AVH. Denies drugs.
+HPI/PE:
+Patient is a 50M with no PMH here with panic attack.
+Patient presents to the ED because he had a panic attack while driving today. Has never had something
+like this happen before. Felt overwhelmed and had to pull over his car on the highway. Came to the ED
+because it was the closest safe place and he didn’t think he could get home.
+Denies SI/HI/AVH. Does report he drank 3 coffees today because he didn’t get much sleep last night.
+Doesn’t usually use caffeine.
+No prior psychiatric problems, has never been admitted to a ward.
+Denies recreational substances.
+Does not have a therapist or psychiatrist.
+MDM:
+50M w/ anxiety in the setting of using caffeine. Suspect substance induced panic attack. Low suspicion
+for life threatening toxidrome. No indicated for emergent psychiatric evaluation at this time as he has no
+SI/HI/AVH and is not grossly impaired. He has a reliable ride home with his wife so will give 1 time dose
+of benzo and have him talk to his PCP about behavioral health referrals. Strict return precautions for any
+worsening or recurrent psychiatric symptoms.
+Noted to be tachycardic/hypertensive, suspect substance-related effect that should improve on its own.
+No history of HTN per chart review, prior vitals wnl.
+Physical Exam
+ED Triage Vitals [07/05/23 1805]
+BP: (!) 156/96
+Pulse: (!) 124
+Pulse from O2 sat: n/a
+Resp: 22
+Temp: 98.9 °F (37.2°C)
+Temp src: Temporal
+SpO2: 100%
+BP (!) 156/96 | Pulse (!) 124 | Temp 98.9 °F (37.2°C) (Temporal) | Resp 22 | Wt 73.3 kg
+Physical Exam
+Constitutional
+Appearance: Normal appearance.
+HENT:
+Head: Normocephalic and atraumatic
+Eyes:
+Conjunctiva/sclera: Conjunctivae normal.
+Cardiovascular:
+Rate and Rhythm: Normal rate and regular rhythm.
+Pulses: Normal pulses.
+Heart sounds: Normal heart sounds.
+Pulmonary:
+Effort: Pulmonary effort is normal.
+Breath sounds: Normal breath sounds.
+Psychiatric:
+Mood: Appears anxious
+Procedures
+Attestation/Critical Care
+Clinical Impressions as of 07/05/23 1855
+Anxiety
+ED Disposition
+Discharge",,,,
+pt2-vis3,pt2,ED Visit ,Registered Nurse,2023-07-05 19:27:00.000,2023-07-05 18:01:00.000,"06:12 PM Pt here after a panic attack. +anxious on exam. No SI/HI. Compliant with safety check, changed
+into scrubs with property logged and placed in Locker 34. Safety precautions maintained. No sitter at this
+time per triage MD.
+06:40 PM MD at bedside discussing plan with patient. Xanax x1 given per MAR. Pt reports he has a safe
+ride and is aware he should not drive after medication.
+06:58 PM Patient discharged. Ambulatory with steady gait. All belongings returned to patient per log. All
+questions addressed. Wife here to drive patient home.",,,,
+pt2-visCurrent,pt2,ED Visit,Physician,2023-07-14 18:27:00.000,2023-07-14 16:27:00.000,"Chief Complaint
+Patient presents with
+• Chest Pain
+Pt report 2 hr chest pain, used rowing machine before. R sided. No SOB. Hasn’t taken anything for pain. No hx MI.
+HPI/PE:
+Patient is a 50M w/ no sig PMH here w/ CP.
+He reports pain started about 2 hours ago. At the time he was at the gym using a rowing machine
+because his PCP has been getting him to lose weight. Reports losing 10 pounds over the last 2 months,
+no longer overweight. Denies shortness of breath. Denies radiation of pain.
+Describes pain as sharp, R sided, more shoulder than chest.
+No history of prior shoulder injuries or rotator cuff injuries. Tender to palpation over the R anterior
+rotator cuff.
+No personal history of heart problems. No one in his family has had an MI.
+MDM:
+50M here w/ CP suspected to be mechanical in etiology. Considered ACS, however EKG non-ischemic
+without any ST segment changes. Will get troponin and reassess. Doubt DVT/PE
+Low suspicion for shoulder fracture or other emergent MSK process. May be related to rotator cuff
+injury, however no emergent treatment would be indicated. Will try lidocaine patch and advice RICE for
+now and have him follow up with PMD if his shoulder pain doesn’t get better.
+Case discussed with attending physician.
+Physical Exam
+ED Triage Vitals [07/14/23 1605]
+BP: 112/76
+Pulse: 75
+Pulse from O2 sat: n/a
+Resp: 18
+Temp: 97.9 °F (36.6°C)
+Temp src: Temporal
+SpO2: 99%
+BP 112/76| Pulse 75 | Temp 97.9 °F (36.6°C) (Temporal) | Resp 18 | Wt 73.3 kg
+Physical Exam
+Constitutional
+Appearance: Normal appearance.
+HENT:
+Head: Normocephalic and atraumatic
+Eyes:
+Conjunctiva/sclera: Conjunctivae normal.
+Cardiovascular:
+Rate and Rhythm: Normal rate and regular rhythm.
+Pulses: Normal pulses.
+Heart sounds: Normal heart sounds.
+Pulmonary:
+Effort: Pulmonary effort is normal.
+Breath sounds: Normal breath sounds.
+Chest:
+Chest wall: Tenderness present.
+Procedures
+Attestation/Critical Care
+Patient Reevaluation: ED Attestation: PA/APRN
+Face to face evaluation was performed by me in collaboration with the Advanced Practice Provider to
+assess for significant health threats. I provided a substantive portion of the care of this patient. I
+personally performed medically appropriate history and physical exam and the MDM:
+On my exam:
+Comfortable in NAD with reproducible TTP over R shoulder and chest wall. NRR, CTAB.
+My differential includes:
+Considered but doubt ACS. Low risk for PE. Doubt fracture, no significant trauma. Favor mild sprain of
+shoulder but cannot exclude more serious rotator cuff injury. Would recommend close follow-up with
+PMD as may need MRI and ortho or sports ref if symptoms persist.
+Clinical Impressions as of 07/14/23 1808
+Chest pain, unspecified type
+ED Disposition
+Discharge",,,,
+pt2-visCurrent,pt2,ED Visit,Registered Nurse,2023-07-14 17:37:00.000,2023-07-14 16:37:00.000,"04:15 PM 3/10 chest pain for last 2 hours after using rowing machine at gym. EKG done. NKA. MD aware
+of chest pain, no new orders at this time.
+05:35 PM Troponin <6. Lidocaine patch applied per MAR. Pt reports chest pain improved to 1/10. NAD.
+Resting comfortably in stretcher with side rails up and call button in reach.
+06:15 PM Discharge instructions reviewed with pt by MD. IV removed. Ambulatory to waiting room with
+steady gait, wife coming to pick him up.",,,,
+pt2-visCurrent,pt2,EKG,Physician,2023-07-14 16:08:00.000,2023-07-14 16:37:00.000,"Electrocardiogram Interpretation
+Sinus rhythm
+Consider left atrial enlargement
+Electronically Signed on 07-14-2023 16:07:32 EDT by",,,,
+pt2-visCurrent,pt2,Labs,Physician,2023-07-14 17:24:00.000,2023-07-14 17:24:00.000,NA,6,12,50,
+pt3-vis1,pt3,PCP Visit,Physician,2023-01-01 16:17:00.000,2023-01-01 14:30:00.000,"S: 54 yo presents for problem visit
+Pt reporting that over the past month, she has had significant pain in her soles first thing in the morning.
+She says that with her leg pain, it has been very difficult to walk much and she has been staying in bed or
+on the couch more. She noticed that over the past month, when she first stands in the morning, her
+bilateral soles “hurt like burning” and often she has to sit back down. She stats that “it feels like my feet
+are on fire and tearing up”, very discouraged as her “legs hurt with walking and feet hurt with standing”.
+Patient Active Problem List
+Tobacco use
+Type 2 diabetes mellitus, without long-term current use of insulin
+Other obesity due to excess calories
+Peripheral vascular disease
+O:
+Vitals:
+BP: 122/82
+Pulse: 70
+Temp: 98.2 °F (36.8 °C)
+Constitutional: well appearing
+HEENT: PERRL, EOMI
+CV: RRR
+Pulm: CTAB
+Neuro: AOx3
+A/P: Plantar fasciitis
+- Patient reassured, referred to PT",,,,
+pt3-vis2,pt3,PCP Visit,Physician,2023-05-01 12:06:00.000,2023-05-01 11:22:00.000,"Subjective
+Miss Kamilla Bradley is a 54 y.o. female with a relevant PMH of obesity, severe PAD, tobacco use (2ppd
+since 1990) and DM who presents to discuss the following issues:
+#DM
+- metformin 1000mg BID
+#Smoking
+- Continue to encourage smoking cessation
+#ASCVD
+- Atorvastatin 80mg PO QD
+10-PT ROS positive per HPI 10-PT ROS otherwise negative
+PSH was reviewed with patient PMH was reviewed with patient
+SH was reviewed with patient FH was reviewed with patient
+Allergies were reviewed with patient Meds were reviewed with patient
+Objective
+Vitals:
+BP: 111/60
+Pulse: 70
+Resp: 18
+Temp: 98 °F (36.7 °C)
+Physical Examination:
+General Appearance: No acute distress
+Skin: No rashes seen
+HEENT: Conjunctivae clear, anicteric, EOMI, NCAT
+Pulm: Lungs clear to auscultation bilaterally. No wheezes, rales, rhonchi.
+CV: Normal rate, regular rhythm. Normal S1/S2. No murmurs, rubs, gallops.
+Abdomen: Soft, NT, ND, +BS. No masses, hepatosplenomegaly.
+Neurologic: Alert, Oriented, moving all extremities spontaneously and grossly normal
+Extremities: No bilateral lower extremity edema
+LABS
+Reviewed
+BMP wnr
+CBC wnr
+Assessment/Plan:
+Miss Kamilla Bradley is a 54 y.o. female with a relevant PMH of obesity, severe PAD, tobacco use (2ppd
+since 1990) and DM who presents to discuss the following issues:
+# DM
+- metformin 1000mg BID
+- A1c at next visit
+#Smoking
+- Continue to encourage smoking cessation
+- Patient not interested in medications to help with smoking cessation at this time, continue to address
+#ASCVD
+- Atorvastatin 80mg PO QD
+- Refer to cardiology
+- Encourage patient to check blood pressure at home
+- Continue to encourage healthy diet and exercise
+- Lipid panel at next visi",,,,
+pt3-vis3,pt3,ED Visit,Physician,2023-07-23 19:17:00.000,2023-07-23 18:18:00.000,"Chief Complaint
+Patient presents with
+• Laceration
+Slicing onions and dropped cleaver on L foot. Bleeding controlled in field by EMS. No thinners. TDAP UTD.
+HPI/PE:
+Ms. is a 54F with PMH PAD presenting for a laceration.
+was in the kitchen today chopping onions at work when she lost control of the knife and dropped in
+onto her left foot. She was wearing closed-toes shoes however sustained a deep laceration over the
+anterior L ankle. She controlled bleeding with a towel until EMS arrived and applied a pressure dressing.
+She denies pulsatile bleeding.
+Denies any other injuries.
+Her last tetanus was 3 years ago.
+The knife had not been used on any meat prior to the injury.
+She doesn’t think she lost much blood at the scene.
+She does report a history of LE PAD. She follows with Dr. (Burmingham Vascular Group) and report she
+has had some “stents done” but doesn’t have any records.
+MDM:
+This is a 54 y/o F presenting to the ED for evaluation of a laceration. Wound was thoroughly irrigated
+with saline and there was no evidence of joint involvement on thorough probing. An ankle x-ray was
+obtained and did not demonstrate any underlying fracture. DP/PT are palpable, doubt vascular injury.
+Intact neurologic status. Will repair and DC with PMD follow-up for suture removal. Strict return
+precautions for signs of wound infection given. No indication for antibiotics given clean wound.
+Physical Exam
+ED Triage Vitals [07/23/23 1804]
+BP: 121/75
+Pulse: (!) 128
+Pulse from O2 sat: n/a
+Resp: (!) 28
+Temp: 98.1 °F (36.7°C)
+Temp src: Temporal
+SpO2: 100%
+BP 121/75| Pulse (!) 128 | Temp 98.1 °F (36.7°C) (Temporal) | Resp (!) 28 | Wt 74.1 kg
+Physical Exam
+Constitutional
+Appearance: Normal appearance.
+Cardiovascular:
+Rate and Rhythm: Normal rate and regular rhythm.
+Pulses: Normal pulses.
+Heart sounds: Normal heart sounds.
+Pulmonary:
+Effort: Pulmonary effort is normal.
+Breath sounds: Normal breath sounds.
+Extremity:
+MSK: Tenderness is present. (Laceration over L ankle with no exposed bone/tendon/joint.)
+Procedures
+See separately dictated procedure note.
+Attestation/Critical Care
+Clinical Impressions as of 07/23/23 1912
+Laceration
+ED Disposition
+Discharge",,,,
+pt3-vis3,pt3,ED Visit ,Registered Nurse,2023-07-23 19:30:00.000,2023-07-23 18:49:00.000,"6:26 PM Pt arrives from radiology after getting L ankle XR to r/o fx after accidentally dropping knife on
+foot. She was at work cutting onions when the accident happened. Registration at bedside providing
+workman’s comp pamphlet. Tetanus UTD.
+6:49 PM Laceration repair by MD at bedside.
+7:16 PM Patient discharged after completion of lac repair. Pain controlled. Has a safe ride home. Denies
+any additional concerns. All questions addressed by provider. Ambulatory to WR w/ steady gait.",,,,
+pt3-visCurrent,pt3,ED Visit,Physician,2023-08-01 16:37:00.000,2023-08-01 11:47:00.000,"Chief Complaint
+Patient presents with
+• Chest Pain
+Pain started after breakfast about 9am, L sided, +pleuritic, no hx PE but thinks family hx. No fevers/infectious.
+EKG+aspirin given
+HPI/PE:
+is a 54 y/o woman with past medical history of peripheral artery disease, diabetes mellitus (type II),
+tobacco use disorder (2+ PPD) presenting for evaluation of chest pain.
+Mrs. presents to the emergency department for evaluation of chest pain. She reports that her chest
+pain started this morning shortly after finishing her breakfast. The chest pain localizes to the left side of
+her chest and radiates into her neck. She denies radiation to the back. Describes as sharp. Worsens with
+deep respirations. Some mild nausea, though denies vomiting.
+She denies any known history of CAD. She does not believe she has ever had a stress test and no records
+of stress testing are noted in our EMR.
+She has a strong family history of pulmonary embolism. She does not have a personal history of
+thromboembolic disease, though there was a question of a potential primary thrombotic episode
+precipitating a prior episode of limb ischemia, though she was not able to further clarify. She denies OCP
+use, recent surgery, long distance travel, or trauma. She has not had any unilateral leg swelling or pain.
+She denies hemoptysis.
+She denies any new medications.
+She denies recreational drug use including cocaine.
+No fevers, chills, or systemic infectious symptoms. She initially denied shortness of breath though was
+noted to be tachypneic on exam.
+MDM:
+is a 54 y/o woman with past medical history of peripheral artery disease, diabetes mellitus (type II),
+tobacco use disorder (2+ PPD) presenting for evaluation of chest pain.
+A broad differential was considered for the etiology of her chest pain. Given her strong family history of
+pulmonary embolism, this was a strong possibility, and a d-dimer was obtained to further assess and was
+found to be within normal range. For this reason, PE is unlikely to be the cause of her symptoms. Chest
+radiography was obtained and did not demonstrate any evidence of pneumonia or pneumothorax.
+Considered other infectious etiologies given her pleuritic chest pain, however she has had no fevers or
+cough making this less likely. Her ECG was noted to show a new left bundle branch block of unclear
+chronicity. Troponin mildly elevated but stable. Cardiology was consulted and recommended expedited
+stress testing. Given chest pain has resolved with aspirin/nitro, will refer to chest pain center for further
+evaluation of potential ischemic etiologies.
+Physical Exam
+ED Triage Vitals [08/01/23 1209]
+BP: 118/63
+Pulse: (!) 103
+Pulse from O2 sat: n/a
+Resp: 25
+Temp: 98.3 °F (36.8°C)
+Temp src: Temporal
+SpO2: 97%
+BP 118/63| Pulse (!) 103 | Temp 98.3 °F (36.8°C) (Temporal) | Resp 25 | Wt 148.3 kg
+Physical Exam
+Constitutional
+Appearance: Normal appearance. No acute distress.
+HENT:
+Head: Normocephalic and atraumatic
+Eyes:
+Conjunctiva/sclera: Conjunctivae normal. Sclera non-icteric.
+Cardiovascular:
+Rate and Rhythm: Tachycardic rate and regular rhythm.
+Pulses: Decreased pulses (difficult to palpate pulses in radial, DP, PT).
+Heart sounds: Normal heart sounds.
+Pulmonary:
+Effort: Pulmonary effort is increased.
+Breath sounds: Normal breath sounds.
+Abdominal:
+General: Bowel sounds are normal.
+Palpations: Abdomen is soft.
+Tenderness: Abdomen is nontender. There is no left or right CVA tenderness.
+Skin:
+General: Skin is warm and dry.
+Neurological:
+General: No focal deficit present.
+Procedures
+Attestation/Critical Care
+Clinical Impressions as of 08/01/23 15:53
+Chest pain, unspecified type
+ED Disposition
+Observation",,,,
+pt3-visCurrent,pt3,ED Visit,Registered Nurse,2023-08-01 16:11:00.000,2023-08-01 12:35:00.000,"12:24 PM 54F with several hours of left sided chest pain. Radiates to neck. +pleuritic. Reports several of
+her family have had PEs in the past but doesn’t think she has had one. No cough, fever, SOB. No hx MI.
+Received aspirin and EKG at triage. Labs/IV. Placed on monitor, side rails in place, call bell in reach.
+01:03 PM Chest pain still persistent 5/10, MD aware, nitroglycerin administered per MAR.
+01:25 PM Patient reports continued chest pain 4/10, MD notified no new orders at this time.
+02:41 PM Chest pain is now resolved. No other new or worsening symptoms.
+03:45 PM Per d/w MD patient will be admitted to chest pain center for stress test tomorrow. Handover
+provided to CPC RN.
+04:05 PM Patient transported to CPC further care deferred to CPC RN.",,,,
+pt3-visCurrent,pt3,EKG,Physician,2023-08-01 12:08:00.000,2023-08-01 12:02:00.000,"Electrocardiogram Interpretation
+Sinus rhythm
+Left bundle branch block
+Possible left atrial enlargement
+Electronically Signed on 08-01-2023 12:05:34 EDT by",,,,
+pt3-visCurrent,pt3,Labs,Physician,2023-08-01 13:22:00.000,2023-08-01 13:22:00.000,NA,16,12,54,
+pt4-vis1,pt4,PCP Visit,Physician,2022-12-01 16:50:00.000,2022-12-01 15:57:00.000,"Visit Type: Urgent visit
+Preferred Language: Spanish
+Chief Concern: right lower extremity wound
+HISTORY OF PRESENT ILLNESS
+Sofia Rodriquez-Colon is a 38 y.o. female with past medical history significant for anxiety who presents
+today for urgent visit.
+# RLE wound
+1 week ago, the patient scratched her shin and obtained an small abrasion. She has since been working in
+her garden a lot, and noticed that her abrasion is not healing. She thinks that it is getting larger, redder
+and more painful. Has been putting some antibiotic ointment on it and wrapping it tightly, thinks that is is
+now also oozing. Denies trying any medications for it. Has not had anything like this before.
+- no fevers at home
+- has with some palpitations at baseline due to anxiety
+- denies lighteadeness or dizziness
+- denies falls
+C/f cellulitis
+Start antibiotics with doxy and Keflex
+F/u 1 week
+If not improving, go the ED
+Review of Systems
+As per HPI
+____________________________________________________________________________
+PAST MEDICAL HISTORY: She has a past medical history of Anxiety (since childhood)
+PAST SURGICAL HISTORY: None
+FAMILY HISTORY: family history includes heart disease in her mother
+SOCIAL HISTORY: Denies smoking, alcohol or illicits
+Allergies :is allergic to penicillins - tolerates cephalosporins.
+Medications:
+• acetaminophen (TYLENOL) 500
+mg tablet
+Take 2 tablets (1,000 mg total) by mouth
+every 6 (six) hours as needed.
+• hydrOXYzine (VISTARIL) 100 mg
+capsule
+TAKE ONE CAPSULE BY MOUTH FOUR TIMES DAILY AS
+NEEDED FOR ITCHING OR anxiety
+PHYSICAL EXAM
+Vitals:
+BP: 120/62
+Pulse: 76
+Resp: 17
+Temp: 98.9 °F (37.2 °C)
+General: NAD
+HEENT: PERRL, EOMI
+CV: rrr, normal s1 and s2, no murmur
+Resp: CTABL, not tachypneic or in respiratory distress
+Neuro: alert and oriented x4, no focal weakness
+MSK/Skin: No peripheral edema, large red, swollen wound on RLE, TTP
+ASSESSMENT/PLAN
+Sofia Rodriquez-Colon is a 38 y.o. female with past medical history significant for anxiety who presents
+today for urgent visit.
+# Cellulitis
+RLE has become much more painful. Wound appears infected with no systemic symptoms.
+- vitals and HPI not suggestive of SIRS or sepsis, thus will elect to treat as outpatient for now
+- provided patient and VNA with anticipatory guidance and when to go to the ED
+- CBC, ESR, CRP, BMP
+- Start doxycycline and Keflex
+- f/u in 1 week to evaluate wound. If the wound has wider area of involvement, or if pain is worsening,
+or if there is more drainage, would consider referral to the ED for more expedited workup and
+consideration of IV antibiotics
+- patient agreeable with plan of care",,,,
+pt4-vis2,pt4,PCP Visit,Physician,2023-04-11 09:33:00.000,2023-04-11 08:27:00.000,"Patient 4 PCP Visit
+Return Visit Note
+Health Literacy score: How often do you need to have someone help you when you read instructions,
+pamphlets, or other written material from your clinician or pharmacy? : 1-Never
+Preferred language is English
+Chief Concern(s):
+Chief Complaint
+Patient presents with
+• Follow-up
+Sofia Rodriquez-Colon is a 38 y.o. female here to follow up for routine health care. She had an ED visit 3
+weeks ago for severe headache. Workup including labs and head CT were negative. Patient states that her
+headaches have now resolved
+Patient's medications, allergies, problem list, past medical, surgical, social and family histories were
+reviewed and updated as appropriate
+ROS:
+Review of systems
+Problem List
+Patient Active Problem List
+Diagnosis
+• Palpitations
+• Other specified anxiety disorders
+Medications
+Current Outpatient Medications on File Prior to Visit
+• acetaminophen (TYLENOL) 500
+mg tablet
+Take 2 tablets (1,000 mg total) by mouth
+every 6 (six) hours as needed.
+• hydrOXYzine (VISTARIL) 100 mg
+capsule
+TAKE ONE CAPSULE BY MOUTH FOUR TIMES DAILY AS
+NEEDED FOR ITCHING OR anxiety
+Allergies
+• Penicillins - Tolerates Cephalosporins Rash
+Exam
+Vitals:
+BP 125/68 (Site: l a, Position: Sitting, Cuff Size: Large) | Pulse 80 | Temp 97.9 °F (36.6 °C) (Oral) | Wt
+72.4 kg | SpO2 97% |
+Physical Exam
+Vitals reviewed.
+Constitutional:
+General: She is not in acute distress.
+Appearance: Normal appearance.
+HENT:
+Mouth/Throat:
+Mouth: Mucous membranes are moist.
+Eyes:
+Pupils: Pupils are equal, round, and reactive to light.
+Cardiovascular:
+Rate and Rhythm: Normal rate and regular rhythm.
+Pulses: Normal pulses.
+Heart sounds: Normal heart sounds.
+Pulmonary:
+Effort: Pulmonary effort is normal.
+Breath sounds: Normal breath sounds. No wheezing.
+Musculoskeletal:
+Right lower leg: No edema.
+Left lower leg: No edema.
+Neurological:
+Mental Status: She is alert and oriented to person, place, and time.
+Psychiatric:
+Mood and Affect: Mood normal.
+Behavior: Behavior normal.
+Assessment & Plan
+Sofia Rodriquez-Colon is a 38 y.o. female here to follow up for routine health care.
+Referral to cardiology, patient very worried about palpitations. Mom had a serious heart attack at 45.
+Continue to see behavioral health for anxiety
+Encourage healthy diet and regular exercise
+RTC 6 months",,,,
+pt4-vis3,pt4,ED Visit,Physician,2023-06-19 20:49:00.000,2023-06-19 18:58:00.000,"Chief Complaint
+Patient presents with
+• Motor Vehicle Collision (MVC)
+Low speed MVC, struck by sedan at stop sign. No LOC. No thinners. + neck pain. No paresthesias or neuro deficits
+HPI
+38 y/o F w/ no contributory PMH presenting for eval after MVC.
+She reports she was struck by another vehicle as a stop sign. She had stopped and thought the other vehicle had
+too, but when she went to enter the intersection, she was struck at low speed on her passenger side. No air bag
+deployment. Denies head strike/LOC.
+No anticoagulants.
+Denies headache. No periorbital or periauricular hematomas. No hemotympanum.
+No focal neurologic deficits. No midline spinal tenderness. No AMS at any time.
+Denies drugs/alcohol.
+No significant distracting injuries.
+Has had some mild neck pain since the event, delayed in onset. No midline tenderness.
+Allergies:
+Allergies as of 06/19/2023
+• (No Known Allergies)
+BP 108/64 | Temp 98.5 °F (36.9 °C) (Oral) | Resp 18 | SpO2 99%
+No results found for this visit on 06/19/23.
+Physical Exam
+Vitals and nursing note reviewed.
+Constitutional:
+Appearance: Normal appearance.
+HENT:
+Head: Normocephalic and atraumatic.
+Right Ear: External ear normal.
+Left Ear: External ear normal.
+Nose: Nose normal.
+Mouth/Throat:
+Mouth: Mucous membranes are moist. (No dental trauma.)
+Pharynx: Oropharynx is clear.
+Eyes:
+Conjunctiva/sclera: Conjunctivae normal.
+Neck:
+Trachea: No tracheal deviation.
+Cardiovascular:
+Rate and Rhythm: Normal rate and regular rhythm.
+Pulmonary:
+Effort: Pulmonary effort is normal. No respiratory distress.
+Abdominal:
+General: Bowel sounds are normal.
+Palpations: Abdomen is soft.
+Tenderness: Abdomen is nontender.
+Musculoskeletal:
+General: No tenderness or deformity.
+Cervical back: No rigidity. Tenderness: L paraspinal, no midline tenderness.
+Skin:
+General: Skin is warm and dry.
+Neurological:
+General: No focal deficit present.
+Procedures/EKG
+Clinical Impressions as of 06/19/23 1932
+Neck pain
+ED Clinical Impression(s)
+The encounter diagnosis was Neck pain.
+Plan
+Patient presenting for eval of neck pain after MVC. She does not have any midline tenderness. Low
+suspicion for cervical spine injury per NEXUS cervical spine rule given clinical history and exam
+documented above. Considered but doubt intracranial hemorrhage. She has no other immediately
+apparent injuries on exam. Will discharge with reassurance, strict return precautions for evolving pain,
+weakness, numbness. Follow-up closely w/ PMD.
+ED Disposition
+Discharge",,,,
+pt4-vis3,pt4,ED Visit ,Registered Nurse,2023-06-19 19:59:00.000,2023-06-19 19:09:00.000,"07:03 PM Pt presenting for eval of neck pain after minor MVC. Intact neuro/pulses. 2/10 neck pain, dull,
+non-radiating. No prior hx neck pain. Pending MD eval.
+07:37 PM Plan for discharge per MD at bedside. No further imaging or w/u. Patient agreeable with plan
+of care. Has safe ride with brother who is in the waiting room. Ambulatory with steady gait to waiting
+room with this RN.",,,,
+pt4-visCurrent,pt4,ED Visit,Physician,2023-08-08 11:49:00.000,2023-08-08 09:21:00.000,"Chief Complaint
+Patient presents with
+• Chest Pain
+Arrives by EMS, 8/10 chest pain radiating to left shoulder, neck. Pressure-like. No hx MI. Abnl EMS EKG. Aspirin PTA.
+HPI/PE:
+is a 38 y/o woman with no significant PMH presenting to the ED for evaluation of chest pain.
+She reports that her chest pain started while she was making breakfast about an hour ago and has been
+continuous since then. Pressure-like. Describes like “someone sitting on my chest”. Associated nausea,
+no vomiting or diarrhea. Pain radiates into her left shoulder and neck. She reports multiple episodes of
+similar pain over the last few days, increasing in frequency. Had trouble sleeping last night due to pain.
+Has been having some exertional dyspnea climbing stairs for the last few weeks.
+She denies any other shortness of breath.
+No fevers, chills, or other infectious symptoms.
+She does not have a personal history of CAD however she reports her mother had a heart attack when
+she was 42 and her father died suddenly at 50.
+She denies any history of DVT/PE.
+She has a primary care doctor but hasn’t seen them recently. Has never seen a cardiologist. No prior
+stress testing.
+She received aspirin prior to my assessment and had an ECG performed by EMS which shows t-wave
+inversions in the anterior leads.
+MDM:
+presents to the ED for evaluation of chest pain. While she has a limited medical history without
+significant cardiovascular risk factors, she has a very concerning family history and a markedly abnormal
+ECG. Given these considerations, I have high suspicion for ACS as the etiology of her chest pain. Chest x-
+ray was obtained to assess for alternative etiologies and was unremarkable. Initial troponin noted to be
+elevated though declining. Pain also resolved. Cardiology consulted, plan for admission for further
+cardiac w/u.
+Physical Exam
+ED Triage Vitals [08/08/23 0907]
+BP: 124/69
+Pulse: 95
+Pulse from O2 sat: n/a
+Resp: 18
+Temp: 98.5 °F (36.9°C)
+Temp src: Temporal
+SpO2: 100%
+BP 124/69| Pulse 95 | Temp 98.5 °F (36.9°C) (Temporal) | Resp 18 | Wt 65.7 kg
+Physical Exam
+Constitutional
+Appearance: Normal appearance.
+HENT:
+Head: Normocephalic and atraumatic
+Eyes:
+Conjunctiva/sclera: Conjunctivae normal.
+Cardiovascular:
+Rate and Rhythm: Normal rate and regular rhythm.
+Pulses: Normal pulses.
+Heart sounds: Normal heart sounds.
+Pulmonary:
+Effort: Pulmonary effort is normal.
+Breath sounds: Normal breath sounds.
+Abdominal:
+General: Bowel sounds are normal.
+Palpations: Abdomen is soft.
+Tenderness: Abdomen is nontender. There is no left or right CVA tenderness.
+Skin:
+General: Skin is warm and dry.
+Neurological:
+General: No focal deficit present.
+Procedures
+Attestation/Critical Care
+Clinical Impressions as of 08/08/23 1136
+NSTEMI (non-ST elevated myocardial infarction) (HC Code) (HC CODE) (HC Code)
+ED Disposition
+Discharge",,,,
+pt4-visCurrent,pt4,ED Visit,Registered Nurse,2023-08-08 11:42:00.000,2023-08-08 09:13:00.000,"09:17 AM Pt reports 7/10 crushing substernal chest pain. L sided. – pleuritic. No infectious sx or sick
+contacts. Received aspirin. Abnl ECG per EMS. Strong family hx. MD at bedside assessing patient.
+10:23 AM Second troponin sent to lab.
+10:55 AM Troponin elevated, cardiology MD at bedside evaluating pt. No active chest pain at this time.
+11:40 PM Plan for adm to cardiology. Awaiting tele bed. Floor signout to RN given. Patient continues to
+have no chest pain at this time. Full cardiac monitor in place. Call button in reach. All side bars up.",,,,
+pt4-visCurrent,pt4,EKG,Physician,2023-08-08 09:14:00.000,2023-08-08 09:09:00.000,"Electrocardiogram Interpretation
+Sinus rhythm
+ST & T wave abnormality, consider anterior ischemia
+Electronically Signed on 08-08-2023 09:12:54 EDT by",,,,
+pt4-visCurrent,pt4,Labs,Physician,2023-08-08 09:21:00.000,2023-08-08 09:21:00.000,NA,89,12,38,
