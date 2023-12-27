@@ -1,0 +1,53 @@
+Step,Prompt,VERSION
+History,"CONTEXT: You are a cardiologist consulted by the Emergency Department for a patient with potential myocardial infarction (MI). The HEART score is applied to determine the risk of major adverse cardiac events (MACE) and to help decide between admitting or discharging the patient. Please be concise in your answers.
+
+You will be provided a series patient's notes below delimited by triple quotes.
+
+Considering the patient's symptoms and presentation (the patient's HPI), please determine the patient's history subscore (one component of the overall HEART score). 
+Choose between:
+[Slightly suspicious (0)] [Moderately suspicious (1)] [Highly suspicious (2)] 
+If there is not enough information provided in the notes, or if the patient history is altogether not provided, please choose:
+[Not enough information - Pt history not present]
+
+Please first explain your reasoning and then provide your answer in brackets by choosing between the answers above (e.g. [Slightly suspicious (0)] ).
+
+Patient notes:
+""""""
+{CurrentNotes}
+""""""",V3
+EKG,"CONTEXT: You are a cardiologist consulted by the Emergency Department for a patient with potential myocardial infarction (MI). The HEART score is applied to determine the risk of major adverse cardiac events (MACE) and to help decide between admitting or discharging the patient. Please be concise in your answers.
+
+You will be provided a series patient's notes below delimited by triple quotes.
+
+An electrocardiogram (EKG) reading for the patient should be present in one of the notes below. Considering the patient's EKG,  please determine the patient's EKG subscore (one component of the overall HEART score). 
+Choose between:
+[Normal (0)] [Non-specific repolarization disturbance (1)] [Significant ST deviation (2)] 
+If there is not enough information provided in the notes, or if the patient EKG interpretation is altogether not provided, please choose:
+[Not enough information - Pt EKG interpretation not present]
+
+Additional information: ""1 point: No ST deviation but LBBB, LVH, repolarization changes (e.g. digoxin); 2 points: ST deviation not due to LBBB, LVH, or digoxin""
+
+Please first explain your reasoning and then provide your choice between the answers above in brackets  (e.g. [Normal (0)] ).
+
+Patient notes:
+""""""
+{CurrentEKG}
+""""""",
+Risk_Factors,"CONTEXT: You are a cardiologist consulted by the Emergency Department for a patient with potential myocardial infarction (MI). The HEART score is applied to determine the risk of major adverse cardiac events (MACE) and to help decide between admitting or discharging the patient. Please be concise in your answers.
+
+""You will be provided a series patient's notes below delimited by triple quotes.
+
+Consider the following risk factors: HTN, hypercholesterolemia, DM, obesity (BMI >30 kg/m²), smoking (current, or smoking cessation ≤3 mo), positive family history (parent or sibling with CVD before age 65); atherosclerotic disease: prior MI, PCI/CABG, CVA/TIA, or peripheral arterial disease. 
+
+For the patient notes below, across all the combined encounter notes, how many risk factors are present?  Please determine the patient's risk factor subscore (one component of the overall HEART score). 
+Choose between:
+[No known risk factors (0)] [1-2 risk factors (1)] [>= 3 risk factors or history of atherosclerotic disease (2)] 
+If there is not enough information provided in the notes, or if the patient risk factors are altogether not addressed, please choose:
+[Not enough information - Pt risk factor not present]
+
+Please first explain your reasoning and then provide your final choice, listing one option between the answers above in brackets (e.g. [No known risk factors (0)] ).
+
+Patient notes:
+""""""
+{AllNotes}
+""""""",

@@ -1,0 +1,32 @@
+Step,Prompt,VERSION
+History,"CONTEXT: You are a cardiologist consulted by the Emergency Department for a patient with potential myocardial infarction (MI). The HEART score is applied to determine the risk of major adverse cardiac events (MACE) and to help decide between admitting or discharging the patient. Please be concise in your answers.
+
+Based on all of the patient's notes below, and considering the patient's symptoms and past medical conditions, please determine the patient's history subscore (one component of the overall HEART score). 
+Choose between:
+[Slightly suspicious (0)] [Moderately suspicious (1)] [Highly suspicious (2)] [Not enough information to determine History score]
+
+Please first explain your reasoning and then provide your answer in brackets by choosing between the answers above (e.g. [Slightly suspicious (0)] ).
+
+{CurrentNotes}",V2
+EKG,"CONTEXT: You are a cardiologist consulted by the Emergency Department for a patient with potential myocardial infarction (MI). The HEART score is applied to determine the risk of major adverse cardiac events (MACE) and to help decide between admitting or discharging the patient. Please be concise in your answers.
+
+Based on all of the patient's notes below, and considering the patient's EKG findings,  please determine the patient's EKG subscore (one component of the overall HEART score). 
+Choose between:
+[Normal (0)] [Non-specific repolarization disturbance (1)] [Significant ST deviation (2)] [Not enough information to determine EKG score]
+
+Additional information: """"1 point: No ST deviation but LBBB, LVH, repolarization changes (e.g. digoxin); 2 points: ST deviation not due to LBBB, LVH, or digoxin""""
+
+Please first explain your reasoning and then provide your choice between the answers above in brackets  (e.g. [Normal (0)] ).
+
+{CurrentEKG}",
+Risk_Factors,"CONTEXT: You are a cardiologist consulted by the Emergency Department for a patient with potential myocardial infarction (MI). The HEART score is applied to determine the risk of major adverse cardiac events (MACE) and to help decide between admitting or discharging the patient. Please be concise in your answers.
+
+Consider the following risk factors: HTN, hypercholesterolemia, DM, obesity (BMI >30 kg/m²), smoking (current, or smoking cessation ≤3 mo), positive family history (parent or sibling with CVD before age 65); atherosclerotic disease: prior MI, PCI/CABG, CVA/TIA, or peripheral arterial disease. 
+
+For the patient below, across all the combined encounter notes, how many risk factors are present?  Please determine the patient's risk subscore (one component of the overall HEART score). 
+Choose between:
+[No known risk factors (0)] [1-2 risk factors (1)] [>= 3 risk factors or history of atherosclerotic disease (2)] [Not enough information to determine Risk Factor score]
+
+Please first explain your reasoning and then provide your final choice, listing one option between the answers above in brackets (e.g. [No known risk factors (0)] ).
+
+{AllNotes}",
